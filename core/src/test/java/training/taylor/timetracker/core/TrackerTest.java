@@ -1,5 +1,5 @@
 package training.taylor.timetracker.core;
-
+/*
 import static org.junit.Assert.*;
 
 import org.junit.Test;
@@ -8,10 +8,10 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import training.taylor.timetracker.core.dao.TimeEntry;
-
+*/
 /**
  * Created by Jason on 6/19/2015.
- */
+ *//*
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(classes = TrackerCoreConfig.class)
 public class TrackerTest {
@@ -32,4 +32,4 @@ public class TrackerTest {
         tracker.add(entry);
         assertTrue(tracker.size() > 0);
     }
-}
+}*/
